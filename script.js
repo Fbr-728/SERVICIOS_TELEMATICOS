@@ -6,7 +6,6 @@ var texto="Hola mundo";
 var listas=[1,2,3];
 
 
-
 // Añadir un evento de clic a un botón
 document.getElementById("inicio").addEventListener("click", function() {
     // Cambiar el contenido de un elemento
