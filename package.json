@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "cowsay": "^1.6.0",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4",
+    "yosay": "^3.0.0"
+  }
+}
